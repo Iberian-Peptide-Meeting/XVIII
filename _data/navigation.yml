@@ -1,0 +1,16 @@
+﻿# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Venue
+  url: /venue/
+
+- title: Registration
+  url: /registration/
+
+- title: Program
+  url: /program/
+
+- title: Organization
+  url: /organization/

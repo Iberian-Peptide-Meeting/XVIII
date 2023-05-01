@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg427"
+   version="1.1"
+   viewBox="0 0 28.117467 28.117467"
+   height="28.117468mm"
+   width="28.117468mm">
+  <defs
+     id="defs421" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="755"
+     inkscape:window-width="1252"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="96.103358"
+     inkscape:cx="3.4111992"
+     inkscape:zoom="2.0356012"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata424">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-88.231565,-89.260503)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       r="13.808734"
+       cy="103.31924"
+       cx="102.2903"
+       id="path465"
+       style="fill:#80b3ff;fill-opacity:1;stroke:#515151;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.13386;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       transform="translate(-30.820714,-31.30608)"
+       id="g1294">
+      <text
+         id="text5435"
+         y="133.75002"
+         x="132.84019"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.3047px;line-height:0.85;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ec813b;fill-opacity:1;stroke:#515151;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.85;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro Bold';text-align:center;text-anchor:middle;fill:#ec813b;fill-opacity:1;stroke:#515151;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="133.75002"
+           x="132.84019"
+           sodipodi:role="line"
+           id="tspan453">XV</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.3047px;line-height:0.85;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ec813b;fill-opacity:1;stroke:#515151;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="132.84019"
+         y="146.97916"
+         id="text459"><tspan
+           id="tspan457"
+           sodipodi:role="line"
+           x="132.84019"
+           y="146.97916"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.85;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro Bold';text-align:center;text-anchor:middle;fill:#ec813b;fill-opacity:1;stroke:#515151;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">III</tspan></text>
+    </g>
+  </g>
+</svg>

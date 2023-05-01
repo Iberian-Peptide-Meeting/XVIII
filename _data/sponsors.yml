@@ -1,0 +1,6 @@
+# Logos are given a default 100% width of the containing column
+
+-   name: IST
+    url: https://tecnico.ulisboa.pt/
+    avatar: /images/ist.svg
+    width: 70
