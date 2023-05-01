@@ -16,7 +16,7 @@ and Spanish research communities working on peptide science. The meeting covers
 varied fields, ranging from peptide synthesis to structural characterization
 and to biological interactions and activity. 
 
-Finally, as has been tradition, focus is being put on facilitating attendance
+Finally, as is tradition, focus is being put on facilitating attendance
 by young researchers. This is done as a way to boost both researcher exposure
 and networking, towards a stronger future community.
 
