@@ -16,7 +16,7 @@
 <ul class="rig sponsorcolumns">
     {% for member in site.data.sponsors %}
         <li>
-            <a href="{{ member.url }}" target="_blank" style="width: {{ member.width | default: 100 }}%;">
+            <a href="{{ site.url }}{{ member.url }}" target="_blank" style="width: {{ member.width | default: 100 }}%;">
                 <img class="avatar" src="{{ member.avatar }}" />
             </a>
         </li>
