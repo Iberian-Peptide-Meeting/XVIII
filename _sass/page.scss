@@ -278,7 +278,7 @@ $button-size: 1.5rem;
 	@media #{$small} {
         display:inline;
         float:left;
-        width:100%
+        width:100%;
 		@include prefix(12,1);
 	}
 	@media #{$x-large} {
