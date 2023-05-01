@@ -2,8 +2,7 @@
 
 title:            XVIII Iberian Peptide Meeting
 locale:           en_US
-url:              https://iberian-peptide-meeting.github.io
-baseurl:          /XVIII
+url:              https://iberian-peptide-meeting.github.io/XVIII
 
 
 # Jekyll configuration
