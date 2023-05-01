@@ -279,10 +279,12 @@ $button-size: 1.5rem;
         display:inline;
         float:left;
         width:100%;
-		@include prefix(12,1);
+        margin-left:(100%/12);
 	}
 	@media #{$x-large} {
-		@include grid(12,7);
+        display:inline;
+        float:left;
+        width:(100%/12 * 7);
 	}
 	@include clearfix;
 	/*&:after {                              */
