@@ -1,6 +1,7 @@
 ---
 layout: about
-excerpt: "Organization"
-permalink: /organization/
+excerpt: Organization
+title: Organization
+permalink: /organization
 ---
 

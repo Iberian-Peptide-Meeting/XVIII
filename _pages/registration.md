@@ -1,9 +1,9 @@
 ---
 layout: page
-excerpt: "Registration"
-permalink: /registration/
+excerpt: Registration
+title: Registration
+permalink: /registration
 ---
 
-# Registration
 Not yet available. Stay tuned.
 
