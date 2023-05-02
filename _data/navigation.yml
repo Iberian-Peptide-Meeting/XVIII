@@ -1,13 +1,13 @@
 ﻿# Site navigation links
 
 - title: Venue
-  url: /venue/
+  url: /venue.html
 
 - title: Registration
-  url: /registration/
+  url: /registration.html
 
 - title: Program
-  url: /program/
+  url: /program.html
 
 - title: Organization
-  url: /organization/
+  url: /organization.html
