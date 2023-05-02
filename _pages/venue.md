@@ -3,7 +3,7 @@ layout: page
 excerpt: "Venue of the XVIII Iberian Peptide Meeting"
 image:
   feature: hotel-do-mar.jpg
-permalink: /XVIII/venue/
+permalink: /venue/
 ---
 
 # Hotel do Mar

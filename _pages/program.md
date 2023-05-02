@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "Program of the XVIII Iberian Peptide Meeting"
-permalink: /XVIII/program/
+permalink: /program/
 ---
 
 # Program 

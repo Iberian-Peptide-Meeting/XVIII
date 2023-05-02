@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "Registration"
-permalink: /XVIII/registration/
+permalink: /registration/
 ---
 
 # Registration
