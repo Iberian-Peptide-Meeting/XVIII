@@ -38,20 +38,21 @@
         <ul class="rig columns-3">
             {% for member in site.data.organization %}
                 <li class="boxed">
-                    {% if member.avatar %}
-                        {% assign avatar = member.avatar %}
-                    {% else %}
-                        {% assign avatar = '/images/people/bio-photo.jpg' %}
-                    {% endif %}
-
                     {% if member.url %}
-                    <a href="{{ member.url }}" target="_blank">
-                        <img class="avatar" src="{{ avatar }}" />
-                    </a>
+                        <a href="{{ member.url }}" target="_blank">
+                        {% if member.avatar %}
+                            <img class="avatar" src="{{ member.avatar }}" />
+                        {% else %}
+                            <h3>{{ member.name }}</h3>
+                        {% endif %}
+                        </a>
                     {% else %}
-                        <img class="avatar" src="{{ avatar }}" />
+                        {% if member.avatar %}
+                            <img class="avatar" src="{{ member.avatar }}" />
+                        {% else %}
+                            <h3>{{ member.name }}</h3>
+                        {% endif %}
                     {% endif %}
-                    <h3>{{ member.name }}</h3>
                     <a class='mem-position'>{{ member.position }}</a>
                     {% if member.bio %}
                         <p class='mem-bio'>{{ member.bio }}</p>
@@ -64,20 +65,21 @@
         <ul class="rig columns-3">
             {% for member in site.data.scientificcommittee %}
                 <li class="boxed">
-                    {% if member.avatar %}
-                        {% assign avatar = member.avatar %}
-                    {% else %}
-                        {% assign avatar = '/images/pessoas/bio-photo.jpg' %}
-                    {% endif %}
-
                     {% if member.url %}
-                    <a href="{{ member.url }}" target="_blank">
-                        <img class="avatar" src="{{ avatar }}" />
-                    </a>
+                        <a href="{{ member.url }}" target="_blank">
+                        {% if member.avatar %}
+                            <img class="avatar" src="{{ member.avatar }}" />
+                        {% else %}
+                            <h3>{{ member.name }}</h3>
+                        {% endif %}
+                        </a>
                     {% else %}
-                        <img class="avatar" src="{{ avatar }}" />
+                        {% if member.avatar %}
+                            <img class="avatar" src="{{ member.avatar }}" />
+                        {% else %}
+                            <h3>{{ member.name }}</h3>
+                        {% endif %}
                     {% endif %}
-                    <h3>{{ member.name }}</h3>
                     <a class='mem-position'>{{ member.position }}</a>
                     {% if member.bio %}
                         <p class='mem-bio'>{{ member.bio }}</p>
