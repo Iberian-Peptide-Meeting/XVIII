@@ -13,9 +13,10 @@ seaside town of Sesimbra. The hotel will host both the accommodation for the
 participants and the lecture halls.
 
 ## Getting there
-[![Hotel do Mar location](/XVIII/images/map.png)](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8)
-The [Hotel do Mar](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8) is within a
-10-minute walk from the center of Sesimbra.
+[![Hotel do Mar location](/XVIII/images/map.png)](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8){:target="_blank"}{:width="250"}
+
+The [Hotel do Mar](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8){:target="_blank"} is
+within a 10-minute walk from the center of Sesimbra.
 
 ### By car
 From Lisbon, a car trip to Sesimbra will take 40 to 50 minutes. A ride-hailing
