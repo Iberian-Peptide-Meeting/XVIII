@@ -13,7 +13,7 @@ seaside town of Sesimbra. The hotel will host both the accommodation for the
 participants and the lecture halls.
 
 ## Getting there
-[![Hotel do Mar location](/XVIII/images/map.png)](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8){:target="_blank"}{:width="250"}
+[![Hotel do Mar location](/XVIII/images/map.png){:width="250"}](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8){:target="_blank"}
 
 The [Hotel do Mar](https://goo.gl/maps/QzM8Pz5Sgmgtn4PS8){:target="_blank"} is
 within a 10-minute walk from the center of Sesimbra.
