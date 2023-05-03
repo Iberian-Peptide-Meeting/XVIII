@@ -5,7 +5,7 @@ image:
   feature: Sesimbra.svg
 ---
 
-The 18th Iberian Peptide Meeting will take place from the 27th to the 29th of
+The EPI 2023 - 18th Iberian Peptide Meeting will take place from the 27th to the 29th of
 November, 2023. We are excited to host you at the seaside town of Sesimbra,
 which we are sure will provide the perfect backdrop for three days of
 scientific exchange.
