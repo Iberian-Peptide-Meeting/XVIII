@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: program
 excerpt: Program
 title: Program
 permalink: /program
