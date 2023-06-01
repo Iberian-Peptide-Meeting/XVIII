@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: prog
 excerpt: Program
 title: Program
 permalink: /program
