@@ -68,6 +68,10 @@ ul.rig li p {
 	line-height: 1.5em;
 	color: #999;
 }
+/* class for 1 column */
+ul.rig.columns-1 li {
+	width: 97.5%; /* this value + 2.5 should = 100% */
+}
 /* class for 2 columns */
 ul.rig.columns-2 li {
 	width: 47.5%; /* this value + 2.5 should = 50% */
