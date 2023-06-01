@@ -32,8 +32,6 @@
     <article class="page">
       <h1>{{ page.title }}</h1>
       <div class="article-wrap">
-        {{ content }}
-
         <h3>Organizing Committee</h3>
         <ul class="rig columns-3">
             {% for member in site.data.organization %}
@@ -58,6 +56,9 @@
                 </li>
             {% endfor %}
         </ul>
+
+        {{ content }}
+
         <hr />
         <h3>Scientific Committee</h3>
         <ul class="rig columns-3">

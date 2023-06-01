@@ -5,5 +5,6 @@ title: Registration
 permalink: /registration
 ---
 
-Not yet available. Stay tuned.
+> _**IMPORTANT DATES**_
+> Early-bird registration and abstract submission: from June 7 to July 31, 2023.
 
