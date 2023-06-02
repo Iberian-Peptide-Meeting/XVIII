@@ -13,15 +13,15 @@ Registration fees include meeting attendance, accommodation at Hotel do Mar, lun
 
 Reduced fees for students are available to all those who haven't yet completed their PhD.
 
-|                        |                | Shared-occupancy room | Single-occupancy room |   |   |
-|-----------------------:|---------------:|:---------------------:|:---------------------:|:-:|:-:|
-| **Early registration** |        Student |          380€         |          470€         |   |   |
-|                        |           Full |          480€         |          570€         |   |   |
-|                        | _Accompanying_ |         _295€_        |                       |   |   |
-|                        |                |                       |                       |   |   |
-| **Late registration**  |        Student |          480€         |          570€         |   |   |
-|                        |           Full |          580€         |          670€         |   |   |
-|                        | _Accompanying_ |         _395€_        |                       |   |   |
+|                        |                | Shared-occupancy<br />room | Single-occupancy<br />room |
+|-----------------------:|---------------:|:--------------------------:|:--------------------------:|
+| **Early registration** |        Student |            380€            |            470€            |
+|                        |           Full |            480€            |            570€            |
+|                        | _Accompanying_ |           _295€_           |                            |
+|                        |                |                            |                            |
+| **Late registration**  |        Student |            480€            |            570€            |
+|                        |           Full |            580€            |            670€            |
+|                        | _Accompanying_ |           _395€_           |                            |
 
 _The accompanying person fee includes shared accommodation with a participant and lunch/dinner,
 but not participation in the meeting._
