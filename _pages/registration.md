@@ -5,7 +5,7 @@ title: Registration
 permalink: /registration
 ---
 
-Registration is not yet open. Early-bird registration and abstract submission will run from June 7 to July 31, 2023.
+Registration is not yet open. Early-bird registration and abstract submission will run until September 3, 2023.
 
 ## Fees
 

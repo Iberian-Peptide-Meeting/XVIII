@@ -6,7 +6,7 @@ image:
 ---
 
 > _**IMPORTANT DATES**_
-> Early-bird registration and abstract submission: from June 7 to July 31, 2023.
+> Early-bird registration and abstract submission: until September 3, 2023.
 
 The EPI 2023 - 18th Iberian Peptide Meeting will take place from the 27th to the 29th of
 November, 2023. We are excited to host you at the seaside town of Sesimbra,
