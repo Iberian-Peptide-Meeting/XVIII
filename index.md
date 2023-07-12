@@ -5,7 +5,7 @@ image:
   feature: banner.svg
 ---
 
-> [_**Registration is now open**_](/XVIII/registration)
+> [_**Registrations are now open**_](/XVIII/registration)
 > Early-bird registration and abstract submission: until September 3, 2023.
 
 The EPI 2023 - 18th Iberian Peptide Meeting will take place from the 27th to the 29th of
