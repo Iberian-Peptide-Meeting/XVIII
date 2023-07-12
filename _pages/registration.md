@@ -7,6 +7,9 @@ permalink: /registration
 
 Registration is not yet open. Early-bird registration and abstract submission will run until September 3, 2023.
 
+If submitting an abstract, together with registration and payment you must use the template [here](/images/AbstractTeplate.docx) and submit
+it to [epi2023@ctn.tecnico.ulisboa.pt](mailto:epi2023@ctn.tecnico.ulisboa.pt).
+
 ## Fees
 
 Registration fees include meeting attendance, accommodation at Hotel do Mar, lunch and social dinner.
