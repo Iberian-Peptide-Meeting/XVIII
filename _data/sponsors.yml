@@ -5,12 +5,12 @@
     avatar: /images/eps.png
     width: 60
 
--   name: IST
-    url: https://tecnico.ulisboa.pt/
-    avatar: /images/ist.svg
-    width: 100
-
 -   name: Sociedade Portuguesa de Bioquímica
     url: https://www.spb.pt/
     avatar: /images/spb.png   
     width: 50
+
+-   name: IST
+    url: https://tecnico.ulisboa.pt/
+    avatar: /images/ist.svg
+    width: 100
