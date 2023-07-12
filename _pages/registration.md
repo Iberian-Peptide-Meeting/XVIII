@@ -36,7 +36,7 @@ MSc or PhD degree.
 _The accompanying person fee includes shared accommodation with a participant
 and lunch/dinner, but not participation in the meeting._
 
-### Payment instructions
+## Payment instructions
 
 Payment must accompany a registration for it to be considered valid.
 
