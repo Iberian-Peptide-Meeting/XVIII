@@ -1,5 +1,11 @@
 # Logos are given a default 100% width of the containing column
 
+-   name: EPS
+    url: https://www.eurpepsoc.com/
+    avatar: /images/eps.svg
+    width: 100
+
+-   name: Sociedade Portuguesa de Bioquímica
 -   name: IST
     url: https://tecnico.ulisboa.pt/
     avatar: /images/ist.svg
