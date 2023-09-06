@@ -7,8 +7,8 @@ permalink: /registration
 
 **Registrations are open**. Please fill-in the registration form
 [here](https://forms.gle/CH1cTGy2RptbUzq7A).
-Early-bird registration and abstract submission will run until
-**September 3, 2023**.
+Early-bird registration and abstract submission have been extended until
+**September 25, 2023**.
 
 If submitting an abstract, together with registration and payment you
 **must use** the template [here](/XVIII/images/AbstractTemplate.docx) and send
