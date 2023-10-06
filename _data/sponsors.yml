@@ -15,6 +15,11 @@
     avatar: /images/ist.svg
     width: 100
 
+-   name: Gyros Protein Technologies
+    url: https://www.gyrosproteintechnologies.com/
+    avatar: /images/gpt.png
+    width: 100
+
 -   name: Iris Biotech
     url: https://www.iris-biotech.de/global/
     avatar: /images/iris.png
@@ -24,3 +29,13 @@
     url: https://paralab.pt/
     avatar: /images/paralab.png
     width: 100
+
+-   name: Qlabo
+    url: https://qlabo.pt/
+    avatar: /images/qlabo.png
+    width: 100
+
+-   name: CEM
+    url: https://cem.com/
+    avatar: /images/cem.png
+    width: 85
