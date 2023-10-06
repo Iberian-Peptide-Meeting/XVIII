@@ -15,10 +15,24 @@
 <h2>Supported by</h2>
 <ul class="rig sponsorcolumns">
     {% for member in site.data.sponsors %}
+      {% if member.type == 'institutional' %}
         <li>
             <a href="{{ member.url }}" target="_blank" style="width: {{ member.width | default: 100 }}%;">
                 <img class="avatar" src="{{ site.url }}{{ member.avatar }}" />
             </a>
         </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<ul class="rig sponsorcolumns">
+    {% for member in site.data.sponsors %}
+      {% if member.type == 'commercial' %}
+        <li>
+            <a href="{{ member.url }}" target="_blank" style="width: {{ member.width | default: 100 }}%;">
+                <img class="avatar" src="{{ site.url }}{{ member.avatar }}" />
+            </a>
+        </li>
+      {% endif %}
     {% endfor %}
 </ul>

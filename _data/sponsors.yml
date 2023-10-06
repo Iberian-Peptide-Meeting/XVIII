@@ -4,38 +4,46 @@
     url: https://www.eurpepsoc.com/
     avatar: /images/eps.png
     width: 60
+    type: institutional
 
 -   name: Sociedade Portuguesa de Bioquímica
     url: https://www.spb.pt/
     avatar: /images/spb.png   
     width: 50
+    type: institutional
 
 -   name: IST
     url: https://tecnico.ulisboa.pt/
     avatar: /images/ist.svg
     width: 100
+    type: institutional
 
 -   name: Gyros Protein Technologies
     url: https://www.gyrosproteintechnologies.com/
     avatar: /images/gpt.png
     width: 100
+    type: commercial
 
 -   name: Iris Biotech
     url: https://www.iris-biotech.de/global/
     avatar: /images/iris.png
-    width: 85
+    width: 80
+    type: commercial
 
 -   name: Paralab Bio
     url: https://paralab.pt/
     avatar: /images/paralab.png
     width: 100
+    type: commercial
 
 -   name: Qlabo
     url: https://qlabo.pt/
     avatar: /images/qlabo.png
     width: 100
+    type: commercial
 
 -   name: CEM
     url: https://cem.com/
     avatar: /images/cem.png
-    width: 85
+    width: 75
+    type: commercial
