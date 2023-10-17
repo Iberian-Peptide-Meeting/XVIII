@@ -47,3 +47,9 @@
     avatar: /images/cem.png
     width: 60
     type: commercial
+
+-   name: Proquinorte
+    url: https://www.proquinorte.com/
+    avatar: /images/proquinorte.png
+    width: 100
+    type: commercial
