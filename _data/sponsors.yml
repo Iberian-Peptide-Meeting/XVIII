@@ -31,8 +31,8 @@
     type: commercial
 
 -   name: Paralab Bio
-    url: https://paralab.pt/
-    avatar: /images/paralab.png
+    url: https://paralab-bio.pt/
+    avatar: /images/paralab-bio.png
     width: 100
     type: commercial
 
@@ -51,5 +51,11 @@
 -   name: Proquinorte
     url: https://www.proquinorte.com/
     avatar: /images/proquinorte.png
+    width: 100
+    type: commercial
+
+-   name: Dias de Sousa
+    url: https://www.dias-de-sousa.pt/
+    avatar: /images/dias_de_sousa.png
     width: 100
     type: commercial
