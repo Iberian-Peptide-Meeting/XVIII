@@ -7,5 +7,5 @@ permalink: /program
 
 ## Detailed program
 
-Not yet available. Stay tuned.
+The program can be downloaded [here](/XVIII/images/Program.pdf).
 

@@ -5,31 +5,7 @@ title: Registration
 permalink: /registration
 ---
 
-**Registrations are open**. Please fill-in the registration form
-[here](https://forms.gle/CH1cTGy2RptbUzq7A).
-Early-bird registration no longer available. Abstract submission only available for consideration as poster presentation. 
-
-If submitting an abstract, together with registration and payment you
-**must use** the template [here](/XVIII/images/AbstractTemplate.docx) and send
-it via e-mail to
-[epi2023@ctn.tecnico.ulisboa.pt](mailto:epi2023@ctn.tecnico.ulisboa.pt).
-
-## Fees
-
-Registration fees include meeting attendance, accommodation at Hotel do Mar,
-lunch and social dinner.
-
-Reduced fees for students are available to all those currently pursuing a BSc,
-MSc or PhD degree.
-
-|                | Shared-occupancy<br />room | Single-occupancy<br />room |
-|---------------:|:--------------------------:|:--------------------------:|
-|        Student |            480€            |            570€            |
-|           Full |            580€            |            670€            |
-| _Accompanying_ |           _395€_           |                            |
-
-_The accompanying person fee includes shared accommodation with a participant
-and lunch/dinner, but not participation in the meeting._
+**Registration is now closed**. Please direct any inquiries to [the organization](/XVIII/organization).
 
 ## Payment instructions
 
