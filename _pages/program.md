@@ -7,5 +7,5 @@ permalink: /program
 
 ## Detailed program
 
-The program can be downloaded [here](/XVIII/images/Program.pdf).
+Use the following links to download the [summarized](/XVIII/images/Program.pdf) or the [full](/XVIII/images/Program_detailed.pdf) programs.
 
