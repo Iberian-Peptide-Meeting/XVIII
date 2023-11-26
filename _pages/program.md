@@ -5,7 +5,7 @@ title: Program
 permalink: /program
 ---
 
-## Program and Abstract Book
+## Program timetable and Abstract Book
 
 - [Summarized program](/XVIII/images/Program.pdf)
 - [Full program](/XVIII/images/Program_detailed.pdf)
