@@ -5,7 +5,9 @@ title: Program
 permalink: /program
 ---
 
-## Detailed program
+## Program and Abstract Book
 
-Use the following links to download the [summarized](/XVIII/images/Program.pdf) or the [full](/XVIII/images/Program_detailed.pdf) program.
+- [Summarized program](/XVIII/images/Program.pdf)
+- [Full program](/XVIII/images/Program_detailed.pdf)
+- [Abstract book](/XVIII/images/Abstract_book.pdf)
 
